@@ -8,9 +8,9 @@ default: &default
   adapter: mysql2
   pool: 5
   timeout: 5000
-  database: ableapp
+  database: Ableapp
   username: root
-  password: r1chmond
+  password: Loveme2day!
   host: localhost
 
 development:
@@ -18,9 +18,9 @@ development:
   adapter: mysql2
   pool: 5
   timeout: 5000
-  database: ableapp
+  database: Ableapp
   username: root
-  password: r1chmond
+  password: Loveme2day!
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
