@@ -18,9 +18,9 @@ development:
   adapter: mysql2
   pool: 5
   timeout: 5000
-  database: Ableapp
-  username: root
-  password: Loveme2day!
+  database: heroku_50b62419e47823d
+  username: b3b9df7013cdfd
+  password: 37c53340
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
