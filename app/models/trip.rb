@@ -1,6 +1,6 @@
 class Trip < ActiveRecord::Base
 
-field :orgin, :type: String
+field :orgin, type: String
 
 field :desitination, type: String
 
