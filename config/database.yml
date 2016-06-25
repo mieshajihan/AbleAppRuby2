@@ -11,7 +11,7 @@ default: &default
   database: heroku_50b62419e47823d
   username: b3b9df7013cdfd
   password: 37c53340
-  host:us-cdbr-iron-east-04.cleardb.net
+  host: us-cdbr-iron-east-04.cleardb.net
 
 development:
   <<: *default
